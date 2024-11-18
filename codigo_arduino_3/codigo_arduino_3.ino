@@ -20,10 +20,6 @@ Los pines analógicos tienen asignados números digitales adicionales:
 A0 : pin 14 : RELE 1 CONTROLA MOTOR 1 Y 3
 A1 : pin 15 : RELE 2 CONTROLA MOTOR 2 Y 4
 
-OJO:
-1. NO SE COMO TIENEN QUE SER LAS SALIDAS PARA LOS MOVIMIENTOS 9 Y 10, no se si lo que puse esta bien
-2. UN RELE CONTROLA DOS RUEDAS CADA UNO
-
  */
 
 // Pines en Arduino Uno
